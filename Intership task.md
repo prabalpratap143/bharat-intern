@@ -4,7 +4,7 @@ Bharat Intern - Virtual Internship (October 10, 2023, to November 1, 2023)
 
 
 1.House Price Prediction
-In this project, I built a machine learning model to predict house prices using linear regression. The Jupyter notebook code provides a step-by-step approach to data preprocessing, model training, and evaluation.
+In this project, I built a machine learning model to predict house prices using linear regression. The Jupyter notebook code provides a step-by-step approach to data preprocessing, model training, and evaluation.[https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset]
 
 
 2.Wine Quality Prediction
